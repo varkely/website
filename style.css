@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,600&family=Rubik&display=swap');
+
+body {
+    background-color:rgba(17, 15, 15, 0.91);
+}
+
+a {
+    text-decoration: none;
+}
+
+.home {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+#name {
+    background: linear-gradient(#d42fb9, #20b4dd);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+#contact {
+    background: linear-gradient(#ff1010, #8f75e9);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+#discord {
+    color: rgb(114,137,218)
+}
+
+#telegram {
+    color: rgb(0, 136, 204)
+}
+
+#email {
+    color: rgb(252, 219, 3)
+}
+
+#discord-at, #telegram-at, #email-at {
+    background: linear-gradient(#ca38ff, #4ad5ff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+#links {
+    background: linear-gradient(#1eec4e, #4ad5ff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent; 
+}
